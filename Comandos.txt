@@ -150,7 +150,7 @@
   #Aula 62  Transformando o repo para arquivo
      git archive --format zip --output arquivos_master.zip  = Transformando master em zip
 
-  #Aula 65 Tecnica private Branch
+  #Aula 65 Tecnica privatefg Branch
      Deriva a branch copia par para um branch privada
      git func_a                           => Cria  branch a partir da master
      git checkout -b private_fun_a        => Cria a branch a partir func_a
