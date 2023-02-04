@@ -19,3 +19,10 @@ _checkout, **Tela de produto**, Catálago, Home e banner_
 * CSS
 * PHP 
 * MySQL
+
+## Funcionalidades a desenvolver:
+ 
+ 1. Área de membros
+ 2. Integração com outros pagamentos
+ 3. Sistema de bônus primeira compra
+ 
