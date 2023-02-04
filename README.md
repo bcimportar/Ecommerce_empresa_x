@@ -44,3 +44,13 @@ Contribuir principal: https://github.com/bcimportar
 
 [![Logo do php](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png)]
 (https://github.com/bcimportar)
+
+## Código da função soma
+
+```javascript
+
+function soma(a,b){
+  return a+b
+}
+
+ ```
