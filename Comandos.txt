@@ -189,8 +189,10 @@
       Explicação no github.com
 
   #Aula 76 Buscando repositorio interessantes
-      Explicação no github.com
+    Explicação no github.com
   
-    #Aula 82 Criando Titulos 
+  #Aula 82 Criando Titulos 
      README.md
-        
+  
+  #Aula 83 Ênfase no texto 
+     README.md
