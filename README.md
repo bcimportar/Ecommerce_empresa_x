@@ -37,3 +37,10 @@ _checkout, **Tela de produto**, Catálago, Home e banner_
 
 ### Links interressantes: 
 [Google](https://www.google.com.br/)
+
+[https://horadecodar.com.br/](https://horadecodar.com.br/)
+
+Contribuir principal: https://github.com/bcimportar
+
+[![Logo do php](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png)]
+(https://github.com/bcimportar)
