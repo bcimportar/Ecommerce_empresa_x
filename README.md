@@ -32,4 +32,4 @@ _checkout, **Tela de produto**, Catálago, Home e banner_
 
 ![logo do python](img/python.png)
 ### imagem externa
-![Logo do php](https://pt.m.wikipedia.org/wiki/Ficheiro:PHP-logo.svg)
+![Logo do php](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png)
