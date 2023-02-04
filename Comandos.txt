@@ -108,11 +108,11 @@
    git push              => Enviando as alterações para repositório
 
   #Aula 48 Utilizando o remote 
-  git remove -v         => Verifica as origin das branches
-  git remote rm origin  => Remove as origin
-  git remote add        => Adiciona o repositorio remoto
-   (Precisar enviar as branches novamente )
-  git push --set-upstream origin master
+    git remove -v         => Verifica as origin das branches
+    git remote rm origin  => Remove as origin
+    git remote add        => Adiciona o repositorio remoto
+    (Precisar enviar as branches novamente )
+    git push --set-upstream origin master
 
   #Aula 49 Trabalhando com submódulos
     git submodule                                    => lista os submodules
@@ -165,9 +165,29 @@
   #Aula 66 Melhorando as mensagens do commit 
   
   #Aula 70 Toda ela feita pelo github.com
-  https://github.com/bcimportar/Ecommerce_empresa_x
-
+    https://github.com/bcimportar/Ecommerce_empresa_x
 
   #Aula 71 Atualizando projeto por pull request
          Parte no  pelo github.com
-        
+    
+  #Aula 72 Processo de CI/CD no GitHub
+      Explicação no github.com
+      
+  #Aula 73 A Aba Projects
+    Criando um projeto no github.com
+            
+  #Aula 74 A Aba Wiki
+   Explicação no github.com
+              
+  #Aula 74 A Aba Insights
+      Explicação no github.com
+
+  #Aula 74 A Aba Settings
+      Explicação no github.com
+
+  #Aula 75 Criando um Gist
+      Explicação no github.com
+
+  #Aula 76 Buscando repositorio interessantes
+      Explicação no github.com
+              
