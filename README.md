@@ -12,19 +12,22 @@ _checkout, **Tela de produto**, Catálago, Home e banner_
 
 **Melhoria 1**, _melhoria 2_
 
-
 ### Linguagens do projeto:
 
-* HTML
-* CSS
-* PHP 
-* MySQL
+- HTML
+- CSS
+- PHP
+- MySQL
 
 ## Funcionalidades a desenvolver:
- 
- 1. Área de membros
-      1. login diferente para grupo de clientes
-      2. Desconto especial para grupo de clientes
-      3. CSS diferente para grupso de clientes
- 2. Integração com outros pagamentos
- 3. Sistema de bônus primeira compra
+
+1.  Área de membros
+    1. login diferente para grupo de clientes
+    2. Desconto especial para grupo de clientes
+    3. CSS diferente para grupso de clientes
+2.  Integração com outros pagamentos
+3.  Sistema de bônus primeira compra
+
+### imagem local
+
+![logo do python](img/python.png)
